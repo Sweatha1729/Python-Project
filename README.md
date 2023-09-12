@@ -4,4 +4,4 @@ Supply Chain analysis means analyzing various components of a Supply Chain to un
 ## Programming Language
 Python
 ## Tools used
-Jupyter notebook
+**Jupyter notebook**
